@@ -2393,6 +2393,16 @@
 	)
 	(wire
 		(pts
+			(xy 53.34 74.93) (xy 55.88 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "05399520-5ca4-4920-ac5c-7b6ed7d4c86f")
+	)
+	(wire
+		(pts
 			(xy 53.34 95.25) (xy 55.88 95.25)
 		)
 		(stroke
@@ -2753,16 +2763,6 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 74.93) (xy 55.88 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9873747a-72cf-4dac-9eb5-0fee4494bf42")
-	)
-	(wire
-		(pts
 			(xy 190.5 92.71) (xy 193.04 92.71)
 		)
 		(stroke
@@ -2953,6 +2953,16 @@
 	)
 	(wire
 		(pts
+			(xy 53.34 77.47) (xy 55.88 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d1e4009d-e7d1-46d5-9f1e-6f6e681792c7")
+	)
+	(wire
+		(pts
 			(xy 190.5 55.88) (xy 193.04 55.88)
 		)
 		(stroke
@@ -3030,16 +3040,6 @@
 			(type default)
 		)
 		(uuid "f56de90d-968a-4277-8fd7-1d1898c8ca7f")
-	)
-	(wire
-		(pts
-			(xy 53.34 77.47) (xy 55.88 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f63010dc-898e-4550-aa17-d8855409f601")
 	)
 	(wire
 		(pts
@@ -3129,7 +3129,7 @@
 	)
 	(global_label "VH2"
 		(shape input)
-		(at 53.34 74.93 180)
+		(at 53.34 77.47 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3139,7 +3139,7 @@
 		)
 		(uuid "179f4bc5-119f-4b04-9adb-65d67c1d2c41")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 46.7262 74.93 0)
+			(at 46.7262 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3173,7 +3173,7 @@
 	)
 	(global_label "VL2"
 		(shape input)
-		(at 53.34 77.47 180)
+		(at 53.34 74.93 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3183,7 +3183,7 @@
 		)
 		(uuid "1d7528e9-bfe5-462a-ad62-c91543e151c1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 47.0286 77.47 0)
+			(at 47.0286 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
